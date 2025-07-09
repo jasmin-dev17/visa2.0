@@ -240,3 +240,13 @@ h1 {
   cursor: pointer;
   margin-top: 30px;
 }
+
+
+.add_tr {
+  width: 103%;
+  padding: 12px 0px 12px 12px;
+  margin: 10px 0;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
