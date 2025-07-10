@@ -4,7 +4,7 @@
 
 //     header.innerHTML = `
 //   <nav>
-//     <a href="/Visa/index.html">Главная</a>
+//     <a href="/index.html">Главная</a>
 //     <a href="/pages/wallets/index.html">Кошельки</a>
 //     <a href="index.html" class="active">Транзакции</a>
 //   </nav>
