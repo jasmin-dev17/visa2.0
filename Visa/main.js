@@ -68,3 +68,17 @@ async function router() {
 }
 
 router();
+
+let logout = document.querySelector('.logout');
+
+logout.onclick = (e) => {
+    e.preventDefault();
+
+    if (confirm('Вы действительно хотите выйти?')) {
+        window.location.href = '/pages/login/index.html'
+        alert("Пока!");
+    } else {
+        alert("ОКАК");
+    }
+};
+
